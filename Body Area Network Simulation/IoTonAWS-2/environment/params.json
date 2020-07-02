@@ -1,0 +1,78 @@
+{
+  "temp": {
+    "batteryCapacity": 100,
+    "sendInterval": 1000,
+    "readInterval": 500,
+    "baseBatteryDrain": 1,
+    "batteryWarningLevel": 0.5,
+    "batteryCriticalLevel": 0.2,
+    "chargerType": "chemical",
+    "metric": "temperature"
+  },
+   "bloodpressure": {
+    "batteryCapacity": 100,
+    "sendInterval": 1000,
+    "readInterval": 500,
+    "baseBatteryDrain": 1,
+    "batteryWarningLevel": 0.5,
+    "batteryCriticalLevel": 0.2,
+    "chargerType": "wireless",
+    "metric":"bloodpressure"
+  },
+  "ecg": {
+    "batteryCapacity": 100,
+    "sendInterval": 1000,
+    "readInterval": 500,
+    "baseBatteryDrain": 1,
+    "batteryWarningLevel": 0.5,
+    "batteryCriticalLevel": 0.2,
+    "chargerType": "none",
+    "metric":"ecg"
+  },
+  "glucose": {
+    "batteryCapacity": 100,
+    "sendInterval": 1000,
+    "readInterval": 500,
+    "baseBatteryDrain": 1,
+    "batteryWarningLevel": 0.5,
+    "batteryCriticalLevel": 0.2,
+    "chargerType": "none",
+    "metric":"glucose"
+  },
+  "heartbeat": {
+    "batteryCapacity": 100,
+    "sendInterval": 1000,
+    "readInterval": 500,
+    "baseBatteryDrain": 1,
+    "batteryWarningLevel": 0.5,
+    "batteryCriticalLevel": 0.2,
+    "chargerType": "none",
+    "metric":"heartbeat"
+  },
+  "oxygen": {
+    "batteryCapacity": 100,
+    "sendInterval": 1000,
+    "readInterval": 500,
+    "baseBatteryDrain": 1,
+    "batteryWarningLevel": 0.5,
+    "batteryCriticalLevel": 0.2,
+    "chargerType": "none",
+    "metric":"oxygen"
+  },
+  "ph": {
+    "batteryCapacity": 100,
+    "sendInterval": 1000,
+    "readInterval": 500,
+    "baseBatteryDrain": 1,
+    "batteryWarningLevel": 0.5,
+    "batteryCriticalLevel": 0.2,
+    "chargerType": "none",
+    "metric":"ph"
+  },
+  "sink":{
+    "batteryCapacity": 1000,
+    "radioPower":50,
+    "batteryCriticalLevel": 0.2,
+    "chargerType": "motion"
+  }
+}
